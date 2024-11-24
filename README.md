@@ -1,3 +1,4 @@
+```bash
 [CLIENT]
    |
    | 1. Upload Model (POST /api/models/upload/)
@@ -38,3 +39,5 @@
    |-- Run prediction (TensorFlow/PyTorch)
    |
    --> Response: {"prediction": [...]}
+
+```
